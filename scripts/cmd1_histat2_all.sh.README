@@ -1,0 +1,2 @@
+python general_hisat2.py ~/桌面/data/RNA-seq/SRR_Acc_List.sample.txt ../../data/ref/yeast_ref ../../data/RNA-seq/ > cmd1_histat2_all.sh
+
